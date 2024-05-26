@@ -3,12 +3,14 @@ package com.coderscampus.week03;
 public class Loops {
 
 	public static void main(String[] args) {
+//		ForLoopExample forLoopExample = new ForLoopExample();
+//		forLoopExample.forLoopExample();
 		
-		// Initialization, termination condition, increment/decrement
-		for (int i = 1; i <= 10; i++) {
-			System.out.println(i);
-		}
-
+//		WhileLoopExample whileExample1 = new WhileLoopExample();
+//		whileExample1.whileLoopExample1();
+		
+		WhileLoopExample whileExample2 = new WhileLoopExample();
+		whileExample2.whileLoopExample2();
 	}
 
 }
