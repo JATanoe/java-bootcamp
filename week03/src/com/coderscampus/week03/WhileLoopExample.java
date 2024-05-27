@@ -1,8 +1,5 @@
 package com.coderscampus.week03;
 
-import java.util.Calendar;
-import java.util.Date;
-
 public class WhileLoopExample {
 	
 	void whileLoopExample1 () {
@@ -25,9 +22,6 @@ public class WhileLoopExample {
 			System.out.println(i + ": " + now);
 			now = new Date();
 		}
-//		System.out.println("Done");
-		
-		System.out.println(stopNow);
 		
 	}
 	
