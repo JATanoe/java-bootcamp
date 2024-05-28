@@ -22,8 +22,8 @@ public class RunnableClass {
 		 * UNIT 3 - [Exercise]: Creating a Method
 		 */	
 		
-		ReadUserInput userInput = new ReadUserInput();
-		userInput.getInput();
+//		ReadUserInput userInput = new ReadUserInput();
+//		userInput.getInput();
 	}
 
 }

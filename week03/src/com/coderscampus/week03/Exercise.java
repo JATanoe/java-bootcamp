@@ -36,7 +36,6 @@ public class Exercise {
 				this.input = this.scanner.next();
 				this.converted_input = Integer.parseInt(this.input);
 			}
-		
 		}
 		
 		scanner.close();
