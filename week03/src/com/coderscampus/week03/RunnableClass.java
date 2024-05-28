@@ -1,10 +1,18 @@
 package com.coderscampus.week03;
 
+import java.util.Random;
+
 public class RunnableClass {
  
 	public static void main(String[] args) {		
 		// Class -> Blueprint for an Object
 		// Object -> a Noun, it's a instantiation of a Class
+		
+		Random random = new Random();
+		
+		for (int i = 0; i < 20; i++) {
+			System.out.println("Random number is " + random.nextInt(10));
+		}
 		
 //		Human jeanGrah = new Human();
 //		
